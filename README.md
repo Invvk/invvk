@@ -3,7 +3,11 @@
          height="45"
          width="45" />, I'm Invvk</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Invvk&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
+<div align="center">
+ 
+[![Discord](https://discordapp.com/api/guilds/892834164448063489/widget.png?style=shield)](https://discord.gg/xcFJvXYsnD)![Profile](https://komarev.com/ghpvc/?username=Invvk&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
 A 2nd-year Bachelors software engineering student. I'm a web development enthusiast, and love working with new technologies.
 
 ---
@@ -45,8 +49,7 @@ A 2nd-year Bachelors software engineering student. I'm a web development enthusi
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-<h1> Discord</h1>
+---
+<img src="https://raw.githubusercontent.com/invvk/invvk/output/github-contribution-grid-snake.svg" alt="snake">
 
-[![Discord Server](https://discordapp.com/api/guilds/892834164448063489/widget.png?style=banner3)](https://discord.gg/xcFJvXYsnD)
-  
 </div>
