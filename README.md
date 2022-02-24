@@ -7,11 +7,12 @@
  
 [![Discord](https://discordapp.com/api/guilds/892834164448063489/widget.png?style=shield)](https://discord.gg/xcFJvXYsnD)![Profile](https://komarev.com/ghpvc/?username=Invvk&label=Profile%20views&color=0e75b6&style=flat)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FB8C00&center=true&vCenter=true&lines=Software+engineering+Student;Java+Developer;Web+development+enthusiast;Learning+ReactJS)](https://git.io/typing-svg)
+         
 </div>
-A 2nd-year Bachelors software engineering student. I'm a web development enthusiast, and love working with new technologies.
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Invvk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&currStreakNum=DDDDDD&sideNums=DDDDDD&dates=A6A3A3D4)](https://git.io/streak-stats)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Invvk&bg_color=0D1117&icon_color=fb8c00&show_icons=true&hide_border=true&theme=dark)
 
 - 📫 How to reach me **businessinvvk@gmail.com**
