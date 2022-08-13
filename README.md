@@ -7,7 +7,7 @@
  
 [![Discord](https://discordapp.com/api/guilds/892834164448063489/widget.png?style=shield)](https://discord.gg/xcFJvXYsnD)![Profile](https://komarev.com/ghpvc/?username=Invvk&label=Profile%20views&color=0e75b6&style=flat)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FB8C00&center=true&vCenter=true&lines=CS+Student;Java+Developer;Web+development+enthusiast;Learning+ReactJS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FB8C00&center=true&vCenter=true&lines=SWE+Student;Java+Developer;Web+development+enthusiast;Learning+ReactJS)](https://git.io/typing-svg)
          
 </div>
 
